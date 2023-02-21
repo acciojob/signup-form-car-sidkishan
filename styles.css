@@ -1,2 +1,11 @@
 
-/* Your CSS Code here. */
+form{
+	display:flex;
+	flex-flow:column wrap;
+	background-color:#e7e7e7;
+	padding:30px;
+	border:2px solid black;
+	justify-content: space-around;
+	border-radius:5px;
+	width:500px;
+}
